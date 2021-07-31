@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paninnet
 - 👀 I’m interested in frontend dev!
-- 🌱 I’m currently learning js(vue.js)
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
